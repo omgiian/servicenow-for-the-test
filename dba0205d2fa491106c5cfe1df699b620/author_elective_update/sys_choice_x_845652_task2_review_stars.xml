@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="stars" table="x_845652_task2_review" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>stars</element>
+            <name>x_845652_task2_review</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-06 12:25:28</sys_created_on>
+            <sys_id>fc5668112f2891106c5cfe1df699b655</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>stars</sys_name>
+            <sys_package display_value="Task2" source="x_845652_task2">dba0205d2fa491106c5cfe1df699b620</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Task2">dba0205d2fa491106c5cfe1df699b620</sys_scope>
+            <sys_update_name>sys_choice_x_845652_task2_review_stars</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-06 12:25:28</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stars</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>★</label>
+            <language>en</language>
+            <name>x_845652_task2_review</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-06 12:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>785668112f2891106c5cfe1df699b655</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-06 12:25:28</sys_updated_on>
+            <value>1_star</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stars</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>★★</label>
+            <language>en</language>
+            <name>x_845652_task2_review</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-06 12:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b45668112f2891106c5cfe1df699b658</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-06 12:25:28</sys_updated_on>
+            <value>2_stars</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stars</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>★★★</label>
+            <language>en</language>
+            <name>x_845652_task2_review</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-06 12:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c5668112f2891106c5cfe1df699b65a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-06 12:25:28</sys_updated_on>
+            <value>3_stars</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stars</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>★★★★</label>
+            <language>en</language>
+            <name>x_845652_task2_review</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-06 12:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b05668112f2891106c5cfe1df699b65d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-06 12:25:28</sys_updated_on>
+            <value>4_stars</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stars</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>★★★★★</label>
+            <language>en</language>
+            <name>x_845652_task2_review</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-06 12:25:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>385668112f2891106c5cfe1df699b65f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-06 12:25:28</sys_updated_on>
+            <value>5_stars</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

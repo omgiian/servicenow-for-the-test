@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_845652_task2_review">x_845652_task2_review</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>REV</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-06 12:25:26</sys_created_on>
+        <sys_id>205668112f2891106c5cfe1df699b605</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REV</sys_name>
+        <sys_package display_value="Task2" source="x_845652_task2">dba0205d2fa491106c5cfe1df699b620</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Task2">dba0205d2fa491106c5cfe1df699b620</sys_scope>
+        <sys_update_name>sys_number_205668112f2891106c5cfe1df699b605</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-06 12:25:26</sys_updated_on>
+    </sys_number>
+</record_update>
